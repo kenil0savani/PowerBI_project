@@ -10,7 +10,8 @@ The global data profession landscape is rapidly evolving, with various roles eme
 
 # Solution:-
 
-![Screenshot 2024-08-26 225901](https://github.com/user-attachments/assets/1ac0a70d-f61b-48fd-a6d3-3d3b0debca2f)
+![Screenshot 2024-08-26 230833](https://github.com/user-attachments/assets/ba216a00-3161-4fcc-9312-696f9843c74a)
+
 
 # Project Goal:
 
